@@ -26,7 +26,7 @@ public class MRZTextParser {
     public static final int COUNTRY_CODE_START_POSITION = 2;
     public static final int COUNTRY_CODE_LENGTH = 3;
     public static final int BIRTHDAY_DATE_START_POSITION = 13;
-    public static final int EXPIRY_DATE_START_POSITION = 22;
+    public static final int EXPIRY_DATE_START_POSITION = 21;
     public static final int DATE_LENGTH = 6;
     public static final int RECORD_NUM_START_POSITION = 28;
     public static final int RECORD_NUM_LENGTH = 10;
